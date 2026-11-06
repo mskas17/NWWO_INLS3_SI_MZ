@@ -26,4 +26,3 @@ skupić się na takich zagadnieniach jak:
 - Python 3.x
 - Git
 - GitHub
-python main.py
