@@ -6,14 +6,6 @@ Projekt prostej aplikacji w języku Python stworzony do nauki Gita i pracy na Gi
 
 - [Opis projektu](#opis-projektu)
 - [Technologie](#technologie)
-- [Wymagania](#wymagania)
-- [Instalacja](#instalacja)
-- [Uruchomienie](#uruchomienie)
-- [Struktura projektu](#struktura-projektu)
-- [Praca z Gitem](#praca-z-gitem)
-- [Autorzy projektu](#autorzy-projektu)
-- [Wersje projektu](#wersje-projektu)
-- [Licencja](#licencja)
 
 ## Opis projektu
 
