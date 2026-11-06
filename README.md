@@ -26,3 +26,8 @@ skupić się na takich zagadnieniach jak:
 - Python 3.x
 - Git
 - GitHub
+
+## Uruchamiania projektu 
+Aby uruchomić projekt należy zainstalować Pythona w wersji minimum 3.12, następnie rozpakować paczkę z plikami i wykonać polecenie 'python main.py'
+
+Zaleca się 
