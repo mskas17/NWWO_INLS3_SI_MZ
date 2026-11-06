@@ -27,4 +27,3 @@ skupić się na takich zagadnieniach jak:
 - Git
 - GitHub
 python main.py
-```
