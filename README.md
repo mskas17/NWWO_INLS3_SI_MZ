@@ -34,37 +34,6 @@ skupić się na takich zagadnieniach jak:
 - Python 3.x
 - Git
 - GitHub
-
-## Wymagania
-
-- Python w wersji 3.8 lub nowszej
-- Git
-
-## Instalacja
-
-1. Sklonuj repozytorium:
-
-   ```bash
-   git clone https://github.com/<twoj-login>/<nazwa-repozytorium>.git
-   ```
-
-2. Przejdź do katalogu projektu:
-
-   ```bash
-   cd <nazwa-repozytorium>
-   ```
-
-3. (Opcjonalnie) Utwórz i aktywuj wirtualne środowisko:
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate      # Linux / macOS
-   venv\Scripts\activate         # Windows
-   ```
-
-## Uruchomienie
-
-```bash
 python main.py
 ```
 
