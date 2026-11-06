@@ -36,5 +36,3 @@ skupić się na takich zagadnieniach jak:
 - GitHub
 python main.py
 ```
-
-## Struktura projektu
