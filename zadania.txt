@@ -1,0 +1,5 @@
+1. Stworzyć 4 proste zmiany i każdą osobno zatwierdzić w commicie.Mogą to być 4 funkcje print, każda zatwierdzona osobno.
+2. Wysłać zmiany do githuba
+---------------------------------------
+3. Połączyć 4 kommity w jeden wspólny commit
+4. Spróbować wysłać zmiany do githuba
